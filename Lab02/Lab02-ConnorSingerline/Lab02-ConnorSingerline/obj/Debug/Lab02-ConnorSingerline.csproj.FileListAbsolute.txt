@@ -1,0 +1,7 @@
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\bin\Debug\Lab02-ConnorSingerline.exe.config
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\bin\Debug\Lab02-ConnorSingerline.exe
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\bin\Debug\Lab02-ConnorSingerline.pdb
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\obj\Debug\Lab02-ConnorSingerline.csprojResolveAssemblyReference.cache
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\obj\Debug\Lab02-ConnorSingerline.csproj.CoreCompileInputs.cache
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\obj\Debug\Lab02-ConnorSingerline.exe
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Lab02\Lab02-ConnorSingerline\Lab02-ConnorSingerline\obj\Debug\Lab02-ConnorSingerline.pdb
