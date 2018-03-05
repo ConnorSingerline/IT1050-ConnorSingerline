@@ -10,6 +10,10 @@ namespace Lab02_ConnorSingerline
     {
         static void Main(string[] args)
         {
+            Console.Write("Welcome to ");
+            Console.WriteLine("C# Programming!");
+            Console.ReadLine();
+
             int a;
             int b;
             Console.WriteLine("We will add two integers together.\n Type the first integer and click enter:");
