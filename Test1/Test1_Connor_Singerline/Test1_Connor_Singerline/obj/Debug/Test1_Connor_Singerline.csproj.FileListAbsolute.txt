@@ -1,0 +1,7 @@
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\bin\Debug\Test1_Connor_Singerline.exe.config
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\bin\Debug\Test1_Connor_Singerline.exe
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\bin\Debug\Test1_Connor_Singerline.pdb
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\obj\Debug\Test1_Connor_Singerline.csprojResolveAssemblyReference.cache
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\obj\Debug\Test1_Connor_Singerline.csproj.CoreCompileInputs.cache
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\obj\Debug\Test1_Connor_Singerline.exe
+C:\Users\Dyventive\Desktop\IT1050_Repo\IT1050-ConnorSingerline\Test1\Test1_Connor_Singerline\Test1_Connor_Singerline\obj\Debug\Test1_Connor_Singerline.pdb
