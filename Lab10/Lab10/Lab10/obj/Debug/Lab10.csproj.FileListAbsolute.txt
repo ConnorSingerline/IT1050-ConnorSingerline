@@ -1,0 +1,6 @@
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\csingerline\Desktop\Repo\Lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
